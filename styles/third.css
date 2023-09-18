@@ -1,0 +1,17 @@
+.third-contain{
+    width:980px;
+    height:511px;
+    margin: 0 auto;
+}
+.first{
+    width: 200px;
+    height:511px;
+    background-color:rgb(6, 89, 173);
+    float:left
+}
+.second{
+    width:780px;
+    height:511px;
+    background-color:skyblue;
+    float: left;
+}

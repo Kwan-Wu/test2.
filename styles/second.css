@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.second-contain{
+    width:980px;
+    height:511px;
+    margin: 0 auto;
+}
+.head{
+    width:980px;
+    height:55px;
+    background-color:rgb(6, 89, 173);
+}
+.middle{
+    width:980px;
+    height:401px;
+    background-color:skyblue; 
+}
+.botton{
+    width:980px;
+    height:45px;
+    background-color:rgb(6, 89, 173);  
+}

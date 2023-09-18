@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.four-contain {
+    width: 980px;
+    height: 511px;
+    margin: 0 auto;
+}
+
+.first {
+    width: 980px;
+    height: 70px;
+    background-color: rgb(6, 89, 173);
+}
+
+.second {
+    width: 200px;
+    height: 401px;
+    background-color: rgb(73, 128, 183);
+    float: left;
+}
+
+.third {
+    width: 780px;
+    height: 401px;
+    background-color: skyblue;
+    float: left;
+}
+
+.forth {
+    width: 980px;
+    height: 40px;
+    background-color: rgb(6, 89, 173);
+    clear: left;
+}

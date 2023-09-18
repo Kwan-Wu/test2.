@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.five-contain{
+    width:980px;
+    height:511px;
+    margin:0 auto;
+}
+.first{
+    width: 980px;
+    height:80px;
+    background-color:rgb(6, 89, 173);
+}
+.second{
+    width:980px;
+    height:60px;
+    background-color:rgb(11, 36, 79);
+}
+.third{
+    width:250px;
+    height:311px;
+    float: left;
+    background-color:rgb(87, 130, 209);
+}
+.forth{
+    width:480px;
+    height:311px;
+    background-color:skyblue;
+    float: left;
+}
+.five{
+    width:250px;
+    height:311px;
+    float: left;
+    background-color:rgb(87, 130, 209);
+}
+.botton{
+    width:980px;
+    height:60px;
+    background-color:rgb(6, 89, 173);
+    clear:left;
+}
